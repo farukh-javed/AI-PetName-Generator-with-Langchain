@@ -12,7 +12,7 @@ Welcome to the **Pet Name Generator**! This project uses the power of Google Gen
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Pet-name-Generator-with-Gemini-Langchain.git
+   git clone https://github.com/farukh-javed/Pet-name-Generator-with-Gemini-Langchain.git
    ```
 2. Install the required packages:
    ```bash
