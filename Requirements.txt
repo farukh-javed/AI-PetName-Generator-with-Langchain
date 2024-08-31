@@ -1,0 +1,6 @@
+langchain_google_genai
+langchain.prompts
+dotenv
+streamlit
+os
+time
